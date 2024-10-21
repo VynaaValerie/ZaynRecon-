@@ -1,0 +1,20 @@
+{
+  "name": "zeenrecon",
+  "version": "1.0.0",
+  "description": "ZeenRecon is a geolocation and IP tracking tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VynaaValerie/ZeenRecon.git"
+  },
+  "keywords": ["geolocation", "ip", "tracking"],
+  "author": "Vynaa Valerie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VynaaValerie/ZeenRecon/issues"
+  },
+  "homepage": "https://github.com/VynaaValerie/ZeenRecon#readme"
+}
