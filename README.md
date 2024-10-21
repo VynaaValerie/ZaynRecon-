@@ -1,6 +1,7 @@
-# UserRecon v1.0
+## ZaynRecon 
+## UserRecon
 
-![UserRecon Preview](userrecon.png)
+![ZaynRecon Preview](userrecon.png)
 
 ### Author: thelinuxchoice  
 ### Rewritten by: xwbytech  
