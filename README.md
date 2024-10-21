@@ -45,10 +45,10 @@ This is useful if you are running an investigation to determine the usage of the
 
 $ sudo apt update && apt upgrade
 
-$ git clone https://github.com/wishihab/userrecon.git
+$ git clone https://github.com/VynaaValerie/ZeenRecon.git
 
 $ cd userrecon
 
-$ ./userrecon.sh
+$ bash userrecon.sh
 
 ### This tool has been tested in many os like parrot os , kali linux ,ubuntu os all of them works perfectly fine  !
