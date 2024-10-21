@@ -1,6 +1,6 @@
 
 # UserRecon v1.0
-# Author: @thelinuxchoice
+# Author: thelinuxchoice
 # Di tulis ulang oleh xwbytech 
 # Contribution Vynaa Valerie 
 
